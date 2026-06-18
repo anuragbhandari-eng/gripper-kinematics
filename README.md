@@ -1,7 +1,7 @@
 # Gripper Kinematics
 
 Closed-form kinematic and mechanical-advantage analysis of a linear-actuator,
-parallel-jaw gripper I modeled in SolidWorks. One linear actuator drives twin
+parallel-jaw gripper modeled in SolidWorks. One linear actuator drives twin
 links that slide both fingers closed on guide rods. This repo works out, by hand
 and then in Python, how far it opens and how hard it can squeeze.
 
