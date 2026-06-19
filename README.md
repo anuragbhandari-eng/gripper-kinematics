@@ -46,7 +46,7 @@ $$\cos\theta = \frac{(L - L_2) - x}{L_1}$$
 
 $$y = L_1 \sin\theta - (K - h)$$
 
-$$\mathrm{MA} = \left|\, \tan\theta \,\right|$$
+$$\mathrm{MA} = \left|\ \tan\theta \ \right|$$
 
 That last term is the whole story: this is a **toggle**. Mechanical advantage climbs toward infinity as the link angle approaches 90°, so the linkage is strongest near full open.
 
