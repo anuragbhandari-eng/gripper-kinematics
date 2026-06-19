@@ -36,9 +36,9 @@ Every symbol on the diagram maps to one row below:
 | :--- | :--- | ---: |
 | $L_1$ | drive link, pin B → pin C | 110.00 |
 | $L$ | datum → gripping surface | 315.94 |
-| $L_2$ | jaw horizontal arm, pin C → corner D | 250.94 |
-| $K$ | jaw vertical drop, corner D → surface E | 89.43 |
-| $h$ | centerline → slider pin B offset | 25.00 |
+| $L_2$ | jaw horizontal arm | 250.94 |
+| $K$ | jaw vertical drop | 89.43 |
+| $h$ | centerline | 25.00 |
 
 Closing the linkage loop horizontally and vertically, then differentiating with virtual work, gives three relations:
 
