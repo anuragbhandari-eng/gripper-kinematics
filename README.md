@@ -34,7 +34,7 @@ Every symbol on the diagram maps to one row below:
 
 | symbol | meaning | value (mm) |
 | :--- | :--- | ---: |
-| $L_1$ | drive link, pin B → pin C *(from the STEP file)* | 110.00 |
+| $L_1$ | drive link, pin B → pin C | 110.00 |
 | $L$ | datum → gripping surface | 315.94 |
 | $L_2$ | jaw horizontal arm, pin C → corner D | 250.94 |
 | $K$ | jaw vertical drop, corner D → surface E | 89.43 |
