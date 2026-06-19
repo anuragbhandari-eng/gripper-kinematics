@@ -81,17 +81,6 @@ On a 200 N actuator:
 
 The worst-case drive-link load of ~980 N works out to about 6 MPa on ø10 steel pins in double shear, far under the limit — the pins are nowhere near the constraint. The real trade-offs are a **narrow 28 mm part range** and a clamp force that **swings ~5.5× across it**. Lowering the 63 mm floor is an actuator or mounting change, not a linkage one; flattening the force curve would mean a wedge or cam stage instead of a toggle.
 
-<details>
-<summary><strong>How the numbers were checked</strong></summary>
-
-<br>
-
-- **Link length** $L_1$ was read straight from the SolidWorks STEP export rather than the drawing — the two pin-hole centers sit on the same rigid part, so their spacing is the true link length regardless of assembly pose (110.0 mm).
-- **The vertical equation's sign** was re-derived from the labeled geometry and sanity-checked: small $\theta$ has to mean the jaws sit near the centerline (closed), and $\theta \to 90°$ has to mean fully open.
-- **Clamp force** comes from a free body of the slider and one jaw. The two links split the actuator thrust, $F_\text{act} = 2\,F_\text{link}\cos\theta$, so each jaw sees $F = \tfrac{1}{2} F_\text{act}\tan\theta$ and each link carries $F_\text{act} / (2\cos\theta)$.
-
-</details>
-
 ---
 
 ## Running it
