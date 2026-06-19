@@ -18,12 +18,6 @@
 
 A single linear actuator pushes a slider along the centerline. Twin symmetric links carry that motion out to two jaws, and the jaws ride on vertical guide rods so they translate straight in and out, staying parallel. Because both links come off the same slider, the part centers itself.
 
-<!-- Optional: a short motion clip reads really well here. Convert your SolidWorks
-     motion study to a GIF (e.g. with ezgif.com) and drop it in. Delete if unused. -->
-<p align="center">
-  <img src="motion.gif" alt="Motion study: the actuator driving both jaws through one open-and-close cycle" width="520">
-</p>
-
 ---
 
 ## The model
