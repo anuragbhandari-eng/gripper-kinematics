@@ -40,7 +40,7 @@ Every symbol on the diagram maps to one row below:
 | $K$ | jaw vertical drop | 89.43 |
 | $h$ | centerline | 25.00 |
 
-Closing the linkage loop horizontally and vertically, then differentiating with virtual work, gives three relations:
+Closing the linkage loop horizontally and vertically, then differentiating, gives three relations:
 
 $$\cos\theta = \frac{(L - L_2) - x}{L_1}$$
 
