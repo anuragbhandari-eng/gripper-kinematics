@@ -3,7 +3,7 @@
 > Closed-form kinematic and mechanical-advantage analysis of a linear-actuator parallel-jaw gripper. Modeled in SolidWorks, solved by hand, verified in Python.
 
 <p align="center">
-  <img src="mechanism-overview.png" alt="Isometric render of the two-finger gripper: a linear actuator driving twin links that slide two parallel jaws on guide rods" width="620">
+  <img src="motion.gif" alt="Motion Study: the actuator driving both jaws through one open-and-close cycle" width="520" >
 </p>
 
 **At a glance** — one actuator, two fingers, self-centering. It handles parts **63–91 mm** wide and delivers **178–979 N of clamp force per finger** on a 200 N actuator, with a mechanical advantage that never drops below **1.8** anywhere in its travel.
