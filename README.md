@@ -1,6 +1,6 @@
 # Gripper Kinematics
 
-> Closed-form kinematic and mechanical-advantage analysis of a linear-actuator parallel-jaw gripper. Modeled in SolidWorks, solved by hand, verified in Python.
+> Closed-form kinematic and mechanical-advantage analysis of a linear-actuator parallel-jaw gripper. Modeled in SolidWorks, calculated equations by hand, verified in Python.
 
 <p align="center">
   <img src="motion.gif" alt="Motion Study: the actuator driving both jaws through one open-and-close cycle" width="520" >
