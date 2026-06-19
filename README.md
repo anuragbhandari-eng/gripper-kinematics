@@ -19,7 +19,7 @@ y     = L1·sin θ − (K − h)
 MA    = | tan θ |
 ```
 
-Geometry (mm): L1 = 110 (drive link, taken straight off the STEP file), L = 315.94,
+Geometry (mm): L1 = 110, L = 315.94,
 L2 = 250.94, K = 89.43, h = 25.
 
 ## What the analysis found
