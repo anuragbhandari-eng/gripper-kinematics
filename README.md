@@ -35,7 +35,7 @@ Every symbol on the diagram maps to one row below:
 | symbol | meaning | value (mm) |
 | :--- | :--- | ---: |
 | $L_1$ | drive link, pin B → pin C | 110.00 |
-| $L$ | datum → center of gripping surface | 315.94 |
+| $L$ | datum → center of gripper | 315.94 |
 | $L_2$ | jaw horizontal arm | 250.94 |
 | $K$ | jaw vertical drop | 89.43 |
 | $h$ | centerline | 25.00 |
