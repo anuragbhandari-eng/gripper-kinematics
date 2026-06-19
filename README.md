@@ -38,7 +38,7 @@ Every symbol on the diagram maps to one row below:
 | $L$ | datum → center of gripper | 315.94 |
 | $L_2$ | jaw horizontal arm | 250.94 |
 | $K$ | jaw vertical drop | 89.43 |
-| $h$ | centerline | 25.00 |
+| $h$ | centerline to link pin | 25.00 |
 
 Closing the linkage loop horizontally and vertically, then differentiating, gives three relations:
 
