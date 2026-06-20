@@ -6,7 +6,7 @@
   <img src="motion.gif" alt="Motion Study: the actuator driving both jaws through one open-and-close cycle" width="520" >
 </p>
 
-**At a glance** : one actuator, four fingers, self-centering. It handles parts **63–91 mm** wide and delivers **178–979 N of clamp force per finger** on a 200 N actuator, with a mechanical advantage that never drops below **1.8** anywhere in its travel.
+**At a glance** : one actuator, two fingers, self-centering. It handles parts **63–91 mm** wide and delivers **178–979 N of clamp force per finger** on a 200 N actuator, with a mechanical advantage that never drops below **1.8** anywhere in its travel.
 
 📄 Full writeup: **[anuragbhandari.vercel.app/projects/robotic-gripper-assembly](https://anuragbhandari.vercel.app/projects/robotic-gripper-assembly)**
 
