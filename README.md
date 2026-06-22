@@ -67,10 +67,10 @@ On a 200 N actuator:
 
 | part width | link angle $\theta$ | MA | clamp force / finger | link load |
 | :--- | ---: | ---: | ---: | ---: |
-| 63 mm *(closed limit)* | 60.7° | 1.78 | 178 N | 204 N |
-| 70 mm | 64.7° | 2.11 | 211 N | 234 N |
-| 80 mm | 71.7° | 3.02 | 302 N | 318 N |
-| 90 mm *(near full open)* | 84.2° | 9.79 | 979 N | 984 N |
+| 63 mm *(closed limit)* | 60.7° | 1.78 | 178 N | 102 N |
+| 70 mm | 64.7° | 2.11 | 211 N | 117 N |
+| 80 mm | 71.7° | 3.02 | 302 N | 159 N |
+| 90 mm *(near full open)* | 84.2° | 9.79 | 979 N | 492 N |
 
 <p align="center">
   <img src="gripper_3_mechanical_advantage.png" alt="Plot of mechanical advantage versus stroke, staying above 1.8 across the working range" width="49%">
